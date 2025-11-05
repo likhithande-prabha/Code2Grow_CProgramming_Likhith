@@ -1,0 +1,44 @@
+========= Mini ATM Simulator =========
+Initial Balance: Γé╣10000
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 2
+Enter amount to deposit: 3000
+Amount Deposited Successfully!
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 3
+Enter amount to withdraw: 5000
+Withdrawal Successful! Remaining Balance: Γé╣8000
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 1
+Your Current Balance: Γé╣8000
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 8000
+Invalid choice! Please try again.
+
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+Enter your choice: 4
+Thank you for banking with us!
+
+========= Transaction Summary =========
+Total Transactions: 3
+Final Balance: Γé╣8000
+Session Ended.
