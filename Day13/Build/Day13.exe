@@ -1,0 +1,29 @@
+=========== SRM Smart Bus Fare Calculator ===========
+Enter number of passengers: 3
+
+--- Passenger 1 ---
+Enter name: Yasir
+Enter age: 10
+Enter distance (in km): 8
+Enter travel time (24-hour format): 9
+Passenger: Yasir | Base Fare: ₹80 | Child Discount Applied | Final Fare: ₹40
+
+--- Passenger 2 ---
+Enter name: Palk
+Enter age: 22
+Enter distance (in km): 15
+Enter travel time (24-hour format): 18
+Passenger: Palk | Base Fare: ₹150 | Peak Hour Surcharge Applied | Final Fare: ₹180
+
+--- Passenger 3 ---
+Enter name: Priya
+Enter age: 65
+Enter distance (in km): 12
+Enter travel time (24-hour format): 14
+Passenger: Priya | Base Fare: ₹120 | Senior Citizen Discount Applied | Final Fare: ₹84
+
+=========== Daily Summary ===========
+Total Passengers: 3
+Total Revenue Collected: ₹304
+Highest Fare: ₹180
+Lowest Fare: ₹40
